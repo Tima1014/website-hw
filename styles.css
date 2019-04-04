@@ -1,0 +1,13 @@
+h1{color:azure;
+    text-align: center;
+    font-family: monospace}
+
+p{ font-family: monospace;
+    text-align:center;
+    color: azure}
+
+body{background:black;}
+img{ align-content: center;}
+.right {
+    text-align: right;
+}
